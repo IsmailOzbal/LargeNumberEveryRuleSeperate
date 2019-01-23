@@ -1,0 +1,14 @@
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText\bin\Debug\NumberToText.dll
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText\bin\Debug\NumberToText.pdb
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText\bin\Debug\NumberToText.Common.dll
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText\bin\Debug\NumberToText.Common.pdb
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText\obj\Debug\NumberToText.csprojResolveAssemblyReference.cache
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText\obj\Debug\NumberToText.dll
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText\obj\Debug\NumberToText.pdb
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText\bin\Debug\NumberToText.dll
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText\bin\Debug\NumberToText.pdb
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText\bin\Debug\NumberToText.Common.dll
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText\bin\Debug\NumberToText.Common.pdb
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText\obj\Debug\NumberToText.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText\obj\Debug\NumberToText.dll
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText\obj\Debug\NumberToText.pdb

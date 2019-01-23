@@ -1,0 +1,9 @@
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText.Common\bin\Debug\NumberToText.Common.dll
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText.Common\bin\Debug\NumberToText.Common.pdb
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText.Common\obj\Debug\NumberToText.Common.dll
+C:\Users\Casper\documents\visual studio 2015\Projects\NumberToText.Common\NumberToText.Common\obj\Debug\NumberToText.Common.pdb
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText.Common\bin\Debug\NumberToText.Common.dll
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText.Common\bin\Debug\NumberToText.Common.pdb
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText.Common\obj\Debug\NumberToText.Common.dll
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText.Common\obj\Debug\NumberToText.Common.pdb
+C:\Users\Casper\Desktop\Yeni klasör\Yeni klasör\LargeNumberTest\NumberToText.Common\obj\Debug\NumberToText.Common.csprojResolveAssemblyReference.cache
